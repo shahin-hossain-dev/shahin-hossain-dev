@@ -4,7 +4,7 @@
 <h2 align="center">A passionate Frontend developer from Bangladesh.</h2>
 <br/>
 
-<h3 align="center">I'm Md Shahin Hossain. I'm a Frontend Focused MERN Stack Developer☀️. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
+<h3 align="center">I'm Shahin Hossain. I'm a Frontend Focused MERN Stack Developer☀️. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
 
 Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer, and support other open source projects. Also, I enjoy learn new things in my spare time.</h3>
 
