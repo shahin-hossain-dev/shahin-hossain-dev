@@ -8,6 +8,13 @@
 
 Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer, and support other open source projects. Also, I enjoy learn new things in my spare time.</h3>
 
+
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Current Stats</h1>
+<br/>
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=shahin-hossain-dev&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
 <br/>
 <img align="right" width="400" src="./shahin-hossain.gif" alt="muhammadnurulahsan" />
 
