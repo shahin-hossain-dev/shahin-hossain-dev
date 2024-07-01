@@ -11,7 +11,9 @@ Aside from my job, I like to create and contribute to open source projects. That
 
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Current Stats</h1>
 <br />
-<img src="https://streak-stats.demolab.com?user=shahin-hossain-dev&border=EB5454&stroke=902bf5&background=0D1117&ring=902bf5" alt="GitHub Streak" />
+<p align="center">
+  <img width="60%" src="[https://streak-stats.demolab.com?user=shahin-hossain-dev&border=EB5454&stroke=902bf5&background=0D1117&ring=902bf5](https://streak-stats.demolab.com/?user=shahin-hossain-dev&theme=react&hide_border=true&stroke=902bf5&background=0D1117&ring=902bf5&fire=902bf5)" alt="GitHub Streak" />
+</p>
 
 <br/>
 <img align="right" width="400" src="./shahin-hossain.gif" alt="muhammadnurulahsan" />
