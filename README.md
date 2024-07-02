@@ -15,7 +15,8 @@ Aside from my job, I like to create and contribute to open source projects. That
  <img src="https://streak-stats.demolab.com/?user=shahin-hossain-dev&theme=react&hide_border=true&stroke=902bf5&background=0D1117&ring=902bf5&fire=902bf5"/>
 </p>
 
-<br/>
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Current Overview</h1>
+<br />
 <img align="right" width="400" src="./shahin-hossain.gif" alt="muhammadnurulahsan" />
 
 - 🔭 I’m currently working on my Personal Project.
@@ -31,8 +32,11 @@ Aside from my job, I like to create and contribute to open source projects. That
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Connect with me</h1>
 <br/>
 
-<p align="center">
-<a  target="_blank" href="https://www.linkedin.com/in/shahin-hossain"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahin-hossain" height="30" width="40" /></a>
+<p align="left">
+<a href="https://twitter.com/shahinhoss6871" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahinhoss6871" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shahin-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahin-hossain" height="30" width="40" /></a>
+<a href="https://fb.com/muhammad.shahin.1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad.shahin.1996" height="30" width="40" /></a>
+</p>
 
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Technologies that I know</h1>
 
