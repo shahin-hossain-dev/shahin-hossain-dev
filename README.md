@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋 I'm Md. Shahin Hossain.</h1>
 <h3 align="center">A passionate Frontend developer from Bangladesh.</h2>
 <br/>
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=shahin-hossain-dev)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahin-hossain-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shahin-hossain-dev" /> </p>
 <br/>
 
 <h4 align="center">I'm Shahin Hossain. I'm a Frontend Focused MERN Stack Developer☀️. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
