@@ -3,14 +3,10 @@
 <h1 align="center">Hi 👋 I'm Md. Shahin Hossain.</h1>
 <h3 align="center">A passionate Frontend developer from Bangladesh.</h2>
 <br/>
+
+<h4 align="center" style={font-family: serif} >I'm Shahin Hossain. I'm a Frontend Focused MERN Stack Developer☀️. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️. Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer, and support other open source projects. Also, I enjoy learn new things in my spare time.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahin-hossain-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shahin-hossain-dev" /> </p>
-<br/>
-
-<h4 align="center">I'm Shahin Hossain. I'm a Frontend Focused MERN Stack Developer☀️. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
-
-Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer, and support other open source projects. Also, I enjoy learn new things in my spare time.</h3>
-
-
 <h2><img  src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40'/>&nbsp;Current Stats</h1>
 <br />
 <p align="center">
