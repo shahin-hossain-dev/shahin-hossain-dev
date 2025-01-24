@@ -14,7 +14,10 @@
 </p>
 
 <br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahin-hossain-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=2c3e50&title_color=38bdf8&text_color=10b981)
+<p align="center">
+ <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahin-hossain-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=2c3e50&title_color=38bdf8&text_color=10b981"/>
+</p>
+
 
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40'/>&nbsp;Current Overview</h1>
