@@ -6,13 +6,19 @@
 <h4 align="center" style={font-family: serif} >I'm Shahin Hossain. I'm a Frontend Focused MERN Stack Developer☀️. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️. Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer, and support other open source projects. Also, I enjoy learn new things in my spare time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahin-hossain-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shahin-hossain-dev" /> </p>
-<h2><img  src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40'/>&nbsp;Current Stats</h1>
-<br />
+<h2><img  src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40'/>&nbsp;Current Stats</h1> 
+
+<br/>
 <p align="center">
  <img width="60%" src="https://streak-stats.demolab.com/?user=shahin-hossain-dev&theme=react&hide_border=true&stroke=902bf5&background=0D1117&ring=902bf5&fire=902bf5&currStreakNum=902bf5&currStreakLabel=902bf5"/>
 </p>
 
+<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahin-hossain-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=2c3e50&title_color=38bdf8&text_color=10b981)
+
+
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40'/>&nbsp;Current Overview</h1>
+
 <br />
 <img align="right" width="400" src="./shahin-hossain.gif" alt="muhammadnurulahsan" />
 
