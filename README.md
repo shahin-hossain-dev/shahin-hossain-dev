@@ -12,6 +12,9 @@
 <p align="center">
  <img width="60%" src="https://streak-stats.demolab.com/?user=shahin-hossain-dev&theme=react&hide_border=true&stroke=902bf5&background=0D1117&ring=902bf5&fire=902bf5&currStreakNum=902bf5&currStreakLabel=902bf5"/>
 </p>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=shahin-hossain-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=2c3e50&title_color=38bdf8&text_color=10b981&icon_color=f472b6"/>
+</p>
 
 <br />
 <p align="center">
