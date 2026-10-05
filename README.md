@@ -1,4 +1,4 @@
-![MasterHead](./shahin.gif)
+![MasterHead](./shahin-hossain.jpg)
 
 <h1 align="left">Hi 👋 I'm Md. Shahin Hossain.</h1>
 <h3 align="left">Frontend Developer | React.js | Next.js </h2>
