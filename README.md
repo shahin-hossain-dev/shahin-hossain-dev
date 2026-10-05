@@ -4,7 +4,7 @@
 <h3 align="left">Frontend Developer | React.js | Next.js </h2>
 
 <h4 align="left">
-I'm Shahin Hossain — a Frontend-Focused Full-Stack Developer with 2+ years of experience. 🚀<br/>
+I'm Shahin Hossain a Frontend-Focused Full-Stack Developer with 2+ years of experience. 
 Passionate about building scalable, user-focused web applications, solving real-world problems, exploring modern technologies, and continuously growing as a developer.
 </h4>
 
