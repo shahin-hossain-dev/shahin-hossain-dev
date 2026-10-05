@@ -1,9 +1,12 @@
 ![MasterHead](./shahin.gif)
 
 <h1 align="center">Hi 👋 I'm Md. Shahin Hossain.</h1>
-<h3 align="center">A Passionate Frontend Developer from Bangladesh.</h2>
+<h3 align="center">Frontend Developer | React.js | Next.js </h2>
 
-<h4 align="center" style={font-family: serif} >I'm Shahin Hossain. I'm a Frontend Focused MERN Stack Developer☀️. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️. Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer, and support other open source projects. Also, I enjoy learn new things in my spare time.</h3>
+<h4 align="center">
+I'm Shahin Hossain — a Frontend-Focused Full-Stack Developer with 2+ years of experience. 🚀<br/>
+Passionate about building scalable, user-focused web applications, solving real-world problems, exploring modern technologies, and continuously growing as a developer.
+</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahin-hossain-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shahin-hossain-dev" /> </p>
 <h2><img  src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40'/>&nbsp;Current Stats</h1> 
@@ -30,13 +33,13 @@
 
 - 🔭 I’m currently working on my Personal Project.
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **JavaScript, React.js, Next.js**
 
 - 📄 Know about my experiences [My Update Resume](https://drive.google.com/file/d/1H_1gnJtZPPmx0iU6zrWi6RQD3lH5S91s/view)
 
 - 📫 reach me out **shahin.hossain.dev@gmail.com**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Node.js, Express.js, PostgreSQL, Prisma**
 <br/>
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40'/>&nbsp;Connect with me</h1>
 <br/>
