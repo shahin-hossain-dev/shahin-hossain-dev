@@ -111,15 +111,16 @@ Passionate about building scalable, user-focused web applications, solving real-
 
 - 🌱 I’m currently learning **Node.js, Express.js, PostgreSQL, Prisma**
 <br/>
+
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='30'/>&nbsp;Connect with me</h1>
-<br/>
+
 <br/>
 
-<p align="center">
-<a href="https://twitter.com/shahinhoss6871" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahinhoss6871" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shahin-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahin-hossain" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad.shahin.1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad.shahin.1996" height="30" width="40" /></a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahin-hossain)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shahinhoss6871)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/muhammad.shahin.1996)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shahin_hossain_dev)
 
 
 
