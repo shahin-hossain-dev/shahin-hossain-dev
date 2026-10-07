@@ -1,7 +1,7 @@
 ![MasterHead](./banner-github.jpg)
 
 <h1 align="left">Hi 👋 I'm Md. Shahin Hossain.</h1>
-<h3 align="left">Frontend Developer | React.js | Next.js </h2>
+<h3 align="left">Fullstack Developer | React.js | Next.js | Express.js </h2>
 
 <h4 align="left">
 I'm Shahin Hossain a Frontend-Focused Full-Stack Developer with 2+ years of experience. 
