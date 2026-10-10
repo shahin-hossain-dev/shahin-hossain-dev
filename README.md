@@ -1,6 +1,6 @@
 ![MasterHead](./banner-github.jpg)
 
-<h1 align="left">Hi 👋 I'm Md. Shahin Hossain.</h1>
+<h1 align="left">Hi 👋 I'm Shahin Hossain.</h1>
 <h3 align="left">Fullstack Developer | React.js | Next.js | Express.js </h2>
 
 <h4 align="left">
